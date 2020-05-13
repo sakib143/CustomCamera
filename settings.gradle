@@ -1,0 +1,2 @@
+rootProject.name='CustomCameraTemp'
+include ':app'
